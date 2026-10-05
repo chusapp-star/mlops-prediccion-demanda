@@ -1,0 +1,11 @@
+﻿Tienda,Provincia,Canal_Venta,Categoria_Producto,SKU,Precio_USD,Descuento_Porc,Tipo_Promocion,Stock_Inicial,Stock_Final,Ventas_Unidades,Ingresos_USD,Visitas_Web,Conversion_Web_Porc,Inversion_Marketing_USD,Temperatura_C,Condicion_Climatica,Feriado,Dia_Semana,Mes,Anio,Numero_Dia_Semana,Dia_Mes
+AL-01,Alajuela,E-commerce,Oficina,OFI-121,71.29,20,Descuento,80,41,39,2224.25,69.0,2.83,11.65,15.7,Lluvioso,No,Thursday,7,2026,3,16
+HE-01,Heredia,Tienda física,Deportes,DEP-112,88.47,5,Descuento,55,25,30,2521.39,68.0,1.86,0.0,24.5,Soleado,No,Tuesday,1,2026,1,6
+PU-01,Puntarenas,E-commerce,Deportes,DEP-193,64.67,0,2x1,77,38,39,2522.13,91.0,5.91,47.23,27.3,Lluvioso,No,Wednesday,1,2026,2,28
+SJ-02,San José,Tienda física,Tecnología,TEC-102,189.95,25,Sin promoción,65,50,15,2136.94,0.0,0.2,0.0,18.1,Nublado,No,Friday,12,2025,4,26
+AL-01,Alajuela,E-commerce,Deportes,DEP-162,84.88,25,Sin promoción,68,60,8,509.28,84.0,0.2,32.01,29.2,Soleado,No,Thursday,4,2026,3,30
+SJ-01,San José,E-commerce,Oficina,OFI-140,35.55,5,Sin promoción,79,37,42,1418.44,133.0,5.34,0.0,21.2,Soleado,No,Friday,5,2026,4,1
+SJ-01,San José,E-commerce,Oficina,OFI-120,31.84,0,Descuento,74,39,35,1114.4,29.0,6.34,60.85,22.7,Soleado,No,Tuesday,1,2026,1,27
+AL-01,Alajuela,Tienda física,Oficina,OFI-182,56.18,5,Campaña digital,35,16,19,1014.05,53.0,0.65,13.76,24.5,Soleado,No,Wednesday,2,2026,2,11
+SJ-02,San José,E-commerce,Belleza,BEL-125,58.2,0,Sin promoción,55,13,42,2444.4,31.0,4.27,27.17,24.3,Soleado,Sí,Friday,5,2026,4,29
+SJ-01,San José,Tienda física,Tecnología,TEC-162,153.57,15,Sin promoción,63,53,10,1305.34,0.0,0.2,14.31,24.0,Lluvioso,No,Wednesday,3,2026,2,11

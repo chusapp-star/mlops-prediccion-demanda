@@ -1,0 +1,11 @@
+{
+  "nombre_modelo": "Gradient_Boosting",
+  "version": "v2.0",
+  "variable_objetivo": "Demanda_Dia_Siguiente",
+  "MAE": 5.5702426845212285,
+  "RMSE": 7.2443283664929154,
+  "R2": 0.8124331655247634,
+  "numero_registros_entrenamiento": 1350,
+  "numero_registros_prueba": 450,
+  "umbral_advertencia_mae": 6.962803355651536
+}
