@@ -108,13 +108,14 @@ st.markdown(
     <div class="hero">
       <h1>Centro Inteligente de Predicción de Demanda</h1>
       <p>Modelo de Machine Learning llevado a una solución MLOps para apoyar decisiones de inventario, abastecimiento, promociones y planificación.</p>
+      <p style="margin-top:.75rem; font-size:.92rem; color:#94a3b8;"><b>Estudiante:</b> Jesús Prado Portuguez · Laboratorio 4 · Analítica Predictiva y Aprendizaje Automático</p>
     </div>
     """,
     unsafe_allow_html=True,
 )
 
 st.sidebar.title("MLOps Demand Control")
-st.sidebar.caption("Laboratorio 4 - Analítica Predictiva y Aprendizaje Automático")
+st.sidebar.caption("Jesús Prado Portuguez · Laboratorio 4 · Analítica Predictiva y Aprendizaje Automático")
 section = st.sidebar.radio(
     "Navegación",
     [
